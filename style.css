@@ -6,6 +6,10 @@
 	font-family: Calibri; 
 }
 
+.body{
+	margin: 10px;
+}
+
 .navbar{
 	border: 1px solid grey;
 }
@@ -19,4 +23,8 @@
 h1{
 	font-size: 36px;
 	font-family: Helvetica
+}
+
+#jfdi-table th{
+	font-size: 24px;
 }
