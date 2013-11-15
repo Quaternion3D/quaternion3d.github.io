@@ -1,9 +1,9 @@
 .site-wide{
-	font-family: Arial;
+	font-family: Helvetica;
 }
 
 .header{
-	
+	font-family: Calibri; 
 }
 
 .navbar{
@@ -18,4 +18,5 @@
 
 h1{
 	font-size: 36px;
+	font-family: Helvetica
 }
