@@ -1,0 +1,21 @@
+.site-wide{
+	font-family: Arial;
+}
+
+.header{
+	
+}
+
+.navbar{
+	border: 1px solid grey;
+}
+
+.navbar a{
+	margin: 10px;
+
+}
+
+
+h1{
+	font-size: 36px;
+}
