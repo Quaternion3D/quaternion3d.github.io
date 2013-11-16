@@ -22,9 +22,14 @@
 
 h1{
 	font-size: 36px;
-	font-family: Helvetica
+	font-family: Calibri
+}
+
+h2{
+	font-family: Calibri
 }
 
 #jfdi-table th{
 	font-size: 24px;
+	font-family: Calibri
 }
