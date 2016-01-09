@@ -7,3 +7,6 @@
 [submodule "calSTAR"]
 	path = calSTAR
 	url = https://github.com/Quaternion3D/calSTAR.git
+[submodule "concrastinate"]
+	path = concrastinate
+	url = https://github.com/Quaternion3D/concrastinate.git
