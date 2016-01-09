@@ -4,3 +4,6 @@
 [submodule "akahenry"]
 	path = akahenry
 	url = https://github.com/Quaternion3D/akahenry.git
+[submodule "calSTAR"]
+	path = calSTAR
+	url = https://github.com/Quaternion3D/calSTAR.git
