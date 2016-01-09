@@ -1,0 +1,3 @@
+[submodule "UJ-portfolio"]
+	path = UJ-portfolio
+	url = https://github.com/Quaternion3D/UJ-portfolio.git
